@@ -3,5 +3,10 @@ layout: default
 title: Income
 ---
 
-# Income
-Here you can explore data and visualizations about Income.
+# Income Page
+
+Welcome to the income section of our project.
+
+## New Section I Added
+
+This text was added to explain something new.
