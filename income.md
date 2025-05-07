@@ -3,18 +3,19 @@ layout: default
 title: Income
 ---
 
-# Income Page
+## Income Trends
 
-Welcome to the income section of our project.
+With education and crime rate, we are interested in identifying any patterns in income across different areas in Denmark, particularly in Copenhagen. The charts above display trends in disposable income for men and women in the top five and bottom five regions from 2007 to 2023.
 
-## New Section I Added
+### Top 5 Regions
+- Gentofte
+- Rudersdal
+- Billund
+- Hørsholm
+- Lyngby-Taarbæk
 
-This text was added to explain something new.
+...
 
-This text was *added* to explain **something new**.
+### Interpretation
 
-## New Section I Added
-
-This text was added to explain something new.
-
-![Income Chart](download.png)
+These income disparities can potentially be linked to regional differences in education levels...
